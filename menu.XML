@@ -1,0 +1,32 @@
+<menu>
+	<food>
+		<name>Pizza</name>
+		<price>$20</price>
+		<cal>560</cal>
+	</food>
+	<food>
+		<name>Hotdog</name>
+		<price>$12</price>
+		<cal>380</cal>
+	</food>
+	<food>
+		<name>Hamburger</name>
+		<price>$25</price>
+		<cal>490</cal>
+	</food>
+	<food>
+		<name>Timsum</name>
+		<price>$12</price>
+		<cal>260</cal>
+	</food>
+	<food>
+		<name>Spaghetti</name>
+		<price>$25</price>
+		<cal>400</cal>
+	</food>
+	<food>
+		<name>French Fried</name>
+		<price>$15</price>
+		<cal>420</cal>
+	</food>
+</menu>
